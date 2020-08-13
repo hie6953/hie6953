@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm jonghui!
+
+### About Me
+- Blog : [My Github Blog](hie6953.github.io)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hie6953)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hie6953/hie6953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
