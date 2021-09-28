@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm jonghui!
 
 ### About Me
-- Blog : https://jjong2.tistory.com/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hie6953)](https://github.com/anuraghazra/github-readme-stats)
 
