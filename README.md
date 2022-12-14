@@ -1,11 +1,8 @@
-### Hi there 👋 I'm jonghui!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhie6953&count_bg=%23C6698C&title_bg=%23601F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋 I'm jonghui! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhie6953&count_bg=%23C6698C&title_bg=%23601F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### About Me
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hie6953&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hie6953)](https://solved.ac/hie6953/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hie6953&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hie6953)](https://solved.ac/hie6953/)
 
 <!--
 **hie6953/hie6953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
