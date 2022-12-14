@@ -2,7 +2,7 @@
 
 ### About Me
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hie6953)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hie6953&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hie6953/hie6953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
